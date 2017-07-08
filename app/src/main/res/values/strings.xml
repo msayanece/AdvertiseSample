@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdvertiseSample</string>
+    <string name="app_id">ca-app-pub-9422536504186276~3643153741</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9422536504186276/6596620149</string>
+    <string name="banner_ad_sample_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="inter_ad_sample_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_video_ad_sample_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
